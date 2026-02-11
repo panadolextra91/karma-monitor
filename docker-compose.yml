@@ -1,0 +1,11 @@
+services:
+  ho-phap-bot:
+    build: .
+    container_name: dm-khua-phat-container
+    restart: always
+    volumes:
+      - ./state:/app/state  # Map folder 'state' ở máy bà vào container
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10mb"

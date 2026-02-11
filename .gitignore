@@ -1,0 +1,10 @@
+# Sổ bìa đen (State)
+state/
+last_id.txt
+
+# Binaries
+ho-phap
+dm-khua-phat
+
+# OS rác
+.DS_Store
