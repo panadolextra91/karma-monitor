@@ -3,6 +3,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-brightgreen?logo=docker)
 ![Security](https://img.shields.io/badge/Security-Full%20Giáp-red)
 ![Karma](https://img.shields.io/badge/Karma-Audit%20Only-orange)
+---
 Karma Monitor là một công cụ giám sát "nghiệp lực" thời gian thực trên không gian số. Hệ thống được xây dựng bằng Go (Golang) để đảm bảo hiệu năng "Kim Cương bất hoại" và khả năng truy vết không bỏ sót một nhịp push nào.
 ---
 ## ✨ Tính năng "Hộ Pháp"
