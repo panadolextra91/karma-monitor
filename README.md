@@ -1,3 +1,5 @@
+[Tiếng Việt](README.md) | [English](README-eng.md)
+
 # ☸️ Karma Monitor (Hộ Pháp Auditor)
 ![Go Version](https://img.shields.io/badge/Go-1.25.4-blue?logo=go)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-brightgreen?logo=docker)
